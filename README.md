@@ -15,7 +15,7 @@
   <a href="mailto:dannydina28@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/dinakarany2899/">
+  <a href="https://www.linkedin.com/in/dinakaran-y/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://dinakaran.vercel.app/">
